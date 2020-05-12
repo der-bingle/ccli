@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "playwright": "^1.0.1",
+    "ramda": "^0.27.0"
+  }
+}
